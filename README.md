@@ -3,6 +3,11 @@ How to use BLE to emulate iBeacon on LinkIt 7697 HDK
 
 Additinal resource can be found at https://docs.labs.mediatek.com/resource/mt7687-mt7697
 
+```diff
+- Note. 
+- Linkit 7697 HDK is only supported by LinkIt SDK 4.3 and later version. 
+- There might be compile error to use them on older version.
+```
 ## Folder Structure
 
 * `project/linkit7697_hdk/apps/ble_ibeacon`: LinkIt SDK project files.
